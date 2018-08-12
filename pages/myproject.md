@@ -4,7 +4,7 @@ title: "My Project"
 permalink: /myproject/
 ---
 
-You can find out more aboutthe source code my project at GitHub, as well as basic documentation at:
+You can find out more about my project at GitHub, as well as basic documentation at:
 
 - [Sistem Informasi Surat Masuk dan Keluar (SIMAK)](https://github.com/farisfebrianto/simak). Build with CodeIgniter Framework.
 
