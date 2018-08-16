@@ -2,9 +2,14 @@
 layout: post
 title:  "Susahnya Beralih ke Linux!"
 categories: linux
+comment: true
 ---
 
-Bosan memakai OS Windows saya pun mencoba menginstal ulang laptop saya dengan linux Ubuntu, selain Ubuntu saya juga pernah mencoba distro-distro linux yang lain seperti openSUSE, Fedora, Debian, dan Linux Mint. Setelah membandingkan dari semua distro yang pernah saya coba akhirnya saya bisa menyimpulkan :
+Bosan memakai OS Windows saya pun mencoba menginstal ulang laptop saya dengan linux Ubuntu, selain Ubuntu saya juga pernah mencoba distro-distro linux yang lain seperti openSUSE, Fedora, Debian, dan Linux Mint.
+
+<!--more-->
+
+Setelah membandingkan dari semua distro yang pernah saya coba akhirnya saya bisa menyimpulkan:
 
 1. Ubuntu. Merupakan OS yang terpopuler, memiliki desktop UI berbeda yaitu Unity, didukung oleh Valve sebagai distro linux yang support steam, software repository yagn lengkap dan terupdate.
 2. openSUSE. Merupakan OS yang paling mudah dan enak dalam pengaturan karena ada YaST (semacam control panel kalau windows) pokoknya cocok bagi pemula daripada Ubuntu.
