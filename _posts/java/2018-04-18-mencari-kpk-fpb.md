@@ -4,7 +4,7 @@ title:  "Mencari KPK dan FPB"
 categories: java
 ---
 
-KPK adalah singkatan dari Kelipatan Persekutuan Terkecil dari dua atau lebih bilangan. Manfaat dari KPK antara lain untuk menyamakan dua atau lebih penyebut pecahan sehingga memudahkan menjumlahkan atau mengurangkannya. Contoh KPK dari 2, 3, dan 5 adalah 30.
+KPK adalah singkatan dari Kelipatan Persekutuan Terkecil dari dua atau lebih bilangan. Manfaat dari KPK antara lain untuk menyamakan dua atau lebih penyebut pecahan sehingga memudahkan menjumlahkan atau mengurangkannya. <!--more--> Contoh KPK dari 2, 3, dan 5 adalah 30.
 
 FPB atau faktor persekutuan terbesar dari dua atau lebih bilangan yang berfungsi untuk mencari bilangan terbesar yang sama untuk membagi dua atau lebih bilangan tersebut. Manfaat dari FPB diantaranya untuk menyederhanakanya pecahan. Contoh FPB dari 20, 36, dan 12 adalah .
 

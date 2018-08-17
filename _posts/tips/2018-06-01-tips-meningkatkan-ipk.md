@@ -6,6 +6,8 @@ categories: tips
 
 Untuk kalian yang belum kuliah, IP (indeks prestasi) adalah nilai mata kuliah selama satu semester dalam skala 4, jadi semacam raport semester gitu. IPK sendiri adalah IP yang diakumulasikan dari semester satu sampai semester akhir yang telah kalian ikuti. Meski IP tidak menunjukkan pintar atau tidaknya seorang mahasiswa, IP yang tinggi bisa mempermudah kalian lolos tes kerja karena sebagian besar perusahaan mencantumkan kriteria IP yang tinggi sebagai prasyaratnya dan juga berguna untuk melanjutkan pendidikan yang lebih tinggi.
 
+<!--more-->
+
 Dulu, waktu semester satu IP saya adalah 3,3 dan pada semester dua 3,1 jadi IPKnya yaitu 3,2. Sekarang saya duduk disemester tiga. Menurut pengalaman saya banyak sekali cara-cara untuk menaikkan IP atau IPK kalian diantaranya :
 
 1. Rajin belajar

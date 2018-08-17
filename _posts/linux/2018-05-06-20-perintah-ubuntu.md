@@ -4,6 +4,8 @@ title:  "20 Perintah CLI di Ubuntu"
 categories: linux
 ---
 
+Menggunakan linux termasuk Ubuntu mau tidak mau harus menggunakan command line (CLI), karena banyak sekali fungsi-fungsi yang bisa dijalankan yang dalam mode GUI tidak bisa bahkan lebih cepat dari mode GUI. <!--more-->Beberapa perintah-perintah dasar tersebut antara lain:
+
 ### 1. adduser
 
 ```

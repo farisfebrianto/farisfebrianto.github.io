@@ -4,9 +4,7 @@ title:  "Bilangan Prima"
 categories: java
 ---
 
-Bilangan Prima adalah bilangan yang habis dibagi dengan 1 dan bilangan itu sendiri. Bilangan prima dimulai dari 2, 3, 5, 7, 11, 13, dst.
-
-Inti dasar penentuan bilangan prima adalah dengan melakukan perhitungan modulus terhadap bilangan tersebut dengan perulangan antara 2 sampai bilangan tersebut. Namun sebelumnya ada variabel counter misal count dengan nilai awal 1 kemudian ketika bilangan dimodulus ke-bilangan tersebut counter tersebut ditambah 1.
+Bilangan Prima adalah bilangan yang habis dibagi dengan 1 dan bilangan itu sendiri. Bilangan prima dimulai dari 2, 3, 5, 7, 11, 13, dst. Inti dasar penentuan bilangan prima adalah dengan melakukan perhitungan modulus terhadap bilangan tersebut dengan perulangan antara 2 sampai bilangan tersebut. <!--more--> Namun sebelumnya ada variabel counter misal count dengan nilai awal 1 kemudian ketika bilangan dimodulus ke-bilangan tersebut counter tersebut ditambah 1.
 
 Lakukan pengecekan apakah count = 2, bila iya maka bilangan tersebut adalah bilangan prima, bila tidak sama dengan 2 maka bilangan tersebut bukan bilangan prima. Berikut ini source code untuk operasi bilangan prima yaitu :
 

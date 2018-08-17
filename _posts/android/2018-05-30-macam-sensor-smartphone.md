@@ -4,6 +4,8 @@ title:  "Macam-macam Sensor Pada Smartphone"
 categories: android
 ---
 
+Smartphone sekarang tuh sekarang kayak *all in device*, serbaguna karena didalamnya ada bergam sensor mulai dari sensor infrared biasa untuk meremote alat elektronik lain, Near Field Communication untuk metode pembayaran otomatis tinggal mendekatkan smartphone pada reseptor NFC atau sensor fingerprint untuk metode autentifikasi. <!--more--> Untuk sensor-sensor lain simak penjabaran berikut:
+
 ### Accelerometer
 
 Mengukur percepatan atau mendeteksi dan mengukur getaran dan gerakan. Sensor ini biasa diterapkan untuk mendeteksi pergerakan seperti shake atau tilt. Penggunaan paling umum yaitu pada saat layar secara otomatis berubah dari mode portrait ke mode landscape. Atau saat pengguna memainkan game jenis balap yang cara mengemudikan kendaraannya dengan memiringkan posisi perangkat.

@@ -4,7 +4,7 @@ title:  "Aturan Pembulatan Angka"
 categories: math
 ---
 
-Jika dibutuhkan, pembulatan angka mutlak diperlukan. Pembulatan angka sendiri memiliki pengertian suatu pekerjaan yang bertujuan untuk menghilangkan beberapa angka dibelakang koma, sehingga menghasilkan bilangan pembulatan untuk ketelitian tertentu. Untuk lebih jelasnya perhatikan contoh pembulatan menjadi dua angka dibelakang koma berikut:
+Jika dibutuhkan, pembulatan angka mutlak diperlukan. Pembulatan angka sendiri memiliki pengertian suatu pekerjaan yang bertujuan untuk menghilangkan beberapa angka dibelakang koma, sehingga menghasilkan bilangan pembulatan untuk ketelitian tertentu. <!--more--> Untuk lebih jelasnya perhatikan contoh pembulatan menjadi dua angka dibelakang koma berikut:
 
 - 29, 63243 menjadi 29,63
 - 81,9773 menjadi 81,98

@@ -4,13 +4,14 @@ title:  "Konversi Bilangan"
 categories: math
 ---
 
+Konversi bilangan merupakan problem dasar selain konversi suhu ataupun konversi satuan. Bilangan-bilangan non desimal ini biasanya diperlukan untuk hal-hal khusus seperti pada pemrograman yang biasanya menggunakan bilangan biner dan heksa dibanding bilangan desimal atau pada standar pewarnaan RGB yang menggunakan bilagan heksa desimal. <!--more--> Nah biasanya konversi bilangan muncul dalam soal-soal ujian atau lebih spesifik lagi untuk menghitung network (jaringan), agar tidak bingung penghitungan dasar konversi bilangan ini dikelompokkan menjadi 4 bagian.
+
 1. Biner yaitu bilangan berbasis dua yang terdiri dari 0 dan 1
 2. Oktal yaitu bilangan berbasis delapan yang terdiri dari 0, 1, 2, 3, 4, 5, 6, dan 7
 3. Desimal yaitu bilangan berbasis sepuluh yang terdiri dari 0, 1, 2, 3, 4, 5, 6, 7, 8, dan 9
 4. Heksadesimal yaitu bilangan berbasis enam belas yang terdiri dari 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A (10), B (11), C (12), D (13), E (14), dan F (15)
 
 ## A. BILANGAN DESIMAL
-
 
 ### 1. Bilangan Desimal ke Biner
 Contoh 254 (10) = ….. (2)

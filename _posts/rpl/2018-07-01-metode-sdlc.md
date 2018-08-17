@@ -4,6 +4,8 @@ title:  "Metode Software Development Cycle (SDLC)"
 categories: rpl
 ---
 
+Metode Software Development Cycle (SDLC) merupakan metode yang diterapkan dalam siklus pengembangan perangkat lunak agar mudah dibuat, dikembangkan, dan diperbaiki jika ditemukan bug didalanya. Ada banyak macam SDLC yang bisa dipakai seuai dengan kebutuhan atau tenggat waktu pengerjaan yang diperlukan. Masing-masing metode memiliki kelebihan dan kekurangan, sehingga banyak developer menggabungkan metode-metode tersebut agar terasa pas menurut mereka. <!--more--> Metode SDLC tersebut antara lain:
+
 ## 1. Waterfall
 
 Metode ini merupakan metode tertua dalam rekayasa perangkat lunak dan memiliki tahapan-tahapan menurun (seperti air terjun) yang dilakukan dengan pendekatan sistematik dan sekuensial mulai dari tahapan awal sampai akhir. Masing masing tahapan harus diselesaikan sebelum melangkah ketahapan selanjutnya.

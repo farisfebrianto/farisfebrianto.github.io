@@ -4,9 +4,9 @@ title:  "Mencari Bilangan Ganjil dan Genap"
 categories: java
 ---
 
-Pada dasarnya bilangan ganjil adalah bilangan yang jika dibagi dua maka akan menghasilkan sisa satu untuk bilangan bulat positif dan sisa -1 untuk bilangan bulat negatif.
+Pada dasarnya bilangan ganjil adalah bilangan yang jika dibagi dua maka akan menghasilkan sisa satu untuk bilangan bulat positif dan sisa -1 untuk bilangan bulat negatif. Untuk menentukan bilangan genap yaitu dengan membagi bilangan tersebut dengan dua dengan sisa nol dan selain bilangan 0 yang dibagi (bilangan netral).
 
-Untuk menentukan bilangan genap yaitu dengan membagi bilangan tersebut dengan dua dengan sisa nol dan selain bilangan 0 yang dibagi (bilangan netral).
+<!--more-->
 
 Dalam mengeimplementasikannya kedalam bahasa java maka digunakanlah operator % (modulus) untuk mencari sisa dari pembagian suatu bilangan, berikut ini source codenya:
 

@@ -6,6 +6,8 @@ categories: opensource
 
 Linux yang merupakan free dan open source OS menjadi alternatif OS windows yang banyak digunakan oleh masyarakat. Linux untuk desktop dibagi menjadi 2 yaitu 32-bit dan 64bit. Linux terpecah belah menjadi beberapa distribusi diantaranya:
 
+<!--more-->
+
 1. [Ubuntu](http://ubuntu.com)
 2. [openSUSE](http://opensuse.org)
 3. [Debian](http://debian.org)

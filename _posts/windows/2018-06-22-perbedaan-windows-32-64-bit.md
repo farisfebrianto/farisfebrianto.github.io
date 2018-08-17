@@ -6,6 +6,8 @@ categories: windows
 
 Ketika akan mendownload Windows 7 mungkin anda pernah mengalami sedikit bingung, karena ada Windows 7 32-bit dan Windows 7 64-bit. Lalu mana yang harus dipilih dan cocok dengan Laptop atau komputer yang anda miliki? Selain itu mungkin juga anda sedikit bingung apa sih bedanya antara Windows 7 32-bit  dengan Windows 7 64-bit? Inilah pertanyaan umum yang sering muncul.
 
+<!--more-->
+
 > Apa sih keuntungan menjalankan Windows 7 64-bit  dibandingkan Windows 7 32-bit?
 
 Jika anda sering bekerja dengan ukuran file yang besar-besar  dan memakan memori yang banyak (misal video editing) tentu saja Windows 7 64-bit akan menjadi pilihan yang terbaik karena akan memberikan kinerja yang lebih baik dibandingkan dengan Windows 7 32-bit. Seperti kita ketahui Windows 7 64-bit telah mensupport  memori sampai 192GB, sedangkan Windows 7 32-bit hanya 4GB untuk performa maksimum.  Keuntungan lain dari Windows 7 64-bit adalah dari segi keamanan, lebih aman dibandingkan Windows 7 32-bit, karena driver Windows 7 64-bit harus benar-benar tersertifikasi oleh vendor si pembuat hardware, jadi sangat sulit untuk disusupi oleh program jahat.

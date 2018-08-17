@@ -4,7 +4,7 @@ title:  "Konversi Desimal ke Romawi"
 categories: java
 ---
 
-Bilangan Romawi adalah bilangan unik yang memiliki aturan-aturan yang berlaku dan terdiri dari huruf-huruf CAPITAL seperti I, X, C, M, V, L, dan v. Di Indonesia bilangan ini sangat jarang digunakan sekali, tapi untuk hal-hal tertentu saja. Pada dasarnya, bilangan Romawi memiliki bilangan dasar dan maksimal perulangan ganda pada huruf-huruf dalam suatu angka yaitu 3. Misal XXX = 30 bukan XXXX=40.
+Bilangan Romawi adalah bilangan unik yang memiliki aturan-aturan yang berlaku dan terdiri dari huruf-huruf CAPITAL seperti I, X, C, M, V, L, dan v. Di Indonesia bilangan ini sangat jarang digunakan sekali, tapi untuk hal-hal tertentu saja. <!--more--> Pada dasarnya, bilangan Romawi memiliki bilangan dasar dan maksimal perulangan ganda pada huruf-huruf dalam suatu angka yaitu 3. Misal XXX = 30 bukan XXXX=40.
 
 Pada dasarnya adapun aturan dari bilangan romawi tersebut adalah sebagai berikut :
 
