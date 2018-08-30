@@ -10,9 +10,19 @@ url: "https://farisfebrianto.github.io"
 # path of site logo, e.g. "/assets/images/logo.png"
 logo: "/assets/images/favicons/rekcodelogo.png"
 
-# Disqus comment
-disqus:
-  shortname: farisfebrianto
+# repo name
+repository: "farisfebrianto/farisfebrianto.github.io"
+
+# comment
+comments:
+  provider: "staticman" # false (default), "disqus", "staticman"
+  disqus:
+    shortname: farisfebrianto
+  staticman:
+    branch                 : "master"
+reCaptcha:
+  siteKey                : "6LeUjmoUAAAAAFqSpITswOYs28T9EqVr-9DPAcFv"
+  secret                 : "BLOJxa4BS6ppRUAJ+S0/che1efvySGdq4yGK7FCPyWPuObiww3j+pOrI8GsOijp9W/oLV+RVPBu/ZU1RwvCyy7P78xYvtF2nxmfk7HdeMOI2N9hjT9llfOtYJyVltzNH78KNdGTngMIPbhtUqKpAO5kRaarTwd4JQAVUhlR3Oh4="
 
 # Social media account information, appears on footer
 github_username:  farisfebrianto
