@@ -37,13 +37,6 @@
   }
 </style>
 
-<script>
-  function trackCommentSubmission() {
-    woopra.track("comment", { timestamp: Date.now() });
-    return true;
-  }
-</script>
-
 <form id="staticman-form" class="layout--page entry-content" method="POST" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.comments.staticman.branch }}/comments">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.url }}?comment=pending">
   <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
