@@ -89,3 +89,67 @@ $brand-color: #00a651 !default;
     color: #fff;
   }
 }
+
+.g-recaptcha {
+  margin-bottom: 0.75em;
+}
+
+.staticman-comment {
+  label, input, textarea {
+    width: 100%;
+    margin-bottom: 1em;
+  }
+
+  input {
+    font-size: inherit;
+    height: 2.5em;
+    border: 1px solid $brand-color;
+  }
+
+  textarea {
+    font-size: inherit;
+    height: 6em;
+    border: 1px solid $brand-color;
+  }
+}
+
+.js-comment {
+  margin-bottom: 1em;
+  background-color: ghostwhite;
+  width: 100%;
+}
+
+.comment-avatar {
+  margin: 3pt;
+  display: block;
+  font-size: 200%;
+  font-weight: bold;
+  color: white;
+  background-color: $brand-color;
+  border: none;
+  padding: 0.1em 0.5em;
+  text-align: center;
+  text-decoration: none;
+}
+
+.comment-author {
+  margin-left: 1em;
+}
+
+.comment-date {
+  font-size: 9pt;
+  display: inline-flex;
+  justify-content: flex-start;
+}
+
+.comment-body {
+  display: flex;
+  justify-content: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  word-wrap: break-word;
+}
+
+.comment-avatar-wrapper {
+  display: flex;
+}

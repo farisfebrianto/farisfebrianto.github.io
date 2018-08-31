@@ -10,6 +10,6 @@ You can find out more about my project at GitHub, as well as basic documentation
 
 ![simak](/assets/images/simak.png)
 
-- [Prediksi Konsumsi Energi Primer Indonesia Menggunakan Regresi Linear-PSO ACOR](https://github.com/farisfebrianto/primaryenergy). Build with Java and JavaFX.
+- [Prediksi Konsumsi Energi Primer Indonesia Menggunakan Regresi Linear-PSO ACOR](https://github.com/farisfebrianto/primaryenergy). Build with JavaFX.
 
 ![primaryenergy](/assets/images/primaryenergy.png)
