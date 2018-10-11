@@ -4,9 +4,9 @@ title:  "Manual Update Nokia 5 (TA-1053)"
 categories: android
 ---
 
-Now my mom got new Nokia 5 phone, thank's to my auntie Luluk for buying it. Nokia 5 alaways regularly got monthly updates, the problem is I don't have wifi connection because the update cannot via cellular networks. Many tricks I've done including tethering wifi from another phone, but it seems android smartly recognized it as cellular network.. haha.
+Now my mom got new Nokia 5 phone, thank's to my auntie Luluk for buying it. Nokia 5 alaways regularly got monthly updates, the problem is I don't have wifi connection because the update cannot via cellular networks. Many tricks I've done including tethering wifi from another phone, but it seems android smartly recognized it as cellular network.
 
-How to update it without wifi, nah.. I got the solution <!--more--> with manual download and install OTA update
+How to update it without wifi?, I got the solution <!--more--> with manual download and install OTA update
 
 1. Enable developer mode via Setting > System > Developer options. If it doesn't appear tap the build number at about phone.
 ![enable-dev-mode](/assets/posts/android/2018-10-11-manual-update-nokia5/enable-dev-mode.png){: .align-center}
