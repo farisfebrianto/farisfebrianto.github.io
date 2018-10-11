@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Macam-macam Sensor Pada Smartphone"
+title:  "Manual Update Nokia 5 (TA-1053)"
 categories: android
 ---
 
