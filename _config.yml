@@ -10,6 +10,9 @@ url: "https://farisfebrianto.github.io"
 # path of site logo, e.g. "/assets/images/logo.png"
 logo: "/assets/images/favicons/rekcodelogo.png"
 
+# Site author
+author: Faris Febrianto
+
 # repo name
 repository: "farisfebrianto/farisfebrianto.github.io"
 
@@ -48,3 +51,7 @@ paginate_path: /page:num/
 # Show excerpt
 show_excerpts: true
 excerpt_separator: <!--more-->
+
+# Reading Files
+include:
+  - _pages
