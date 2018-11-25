@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-![cv](/assets/images/resume.png){: .resume-image }
+![resume](/assets/images/resume.png){: .resume-image }
 
 ### Data Pribadi
 
