@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Menyembunyikan Drive Letter Windows"
-categories: windows
+categories: Windows
+image: menyembunyikan-drive-letter-windows.png
+permalink: /menyembunyikan-drive-letter-windows/
+comments: true
 ---
 
 Banyak cara yg bisa kita gunakan untuk menyembunyikan drive letter partisi drive Windows agar seperti sistem operasi Linux. Akibat dari tindakan tersebut, Windows tidak meng-assign partisi tersebut sehingga seolah-olah tidak ada dan tentunya tidak mudah diketahui oleh orang lain. <!--more--> Nah caranya ada dua macam, bisa melalui CMD atau lewat GUI.

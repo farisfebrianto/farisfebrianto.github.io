@@ -1,40 +1,30 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry wrapper" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        {{ page.date | date: site.date_format }}
       </time>
-      {%- if page.categories -%}
-        <span>in {{ page.categories | join: ', ' }}</span>
-      {%- endif -%}
+      {%- for categories in page.categories -%}
+        <a class="category-btn" href="/category/#{{ categories | slugize }}"><span>{{ categories }}</span></a>
+      {%- endfor -%}
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+    </p>
+
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+        <img class="post-thumb" src="/assets/thumbs/{{ page.image }}" alt="{{ page.title }}" itemprop="image">
     {{ content }}
   </div>
 
-  {% if site.comments.provider %}
-  {% case site.comments.provider %}
-    {% when "disqus" %}
-      {%- if site.comments.disqus.shortname -%}
-        {%- include disqus_comments.html -%}
-      {%- endif -%}
-    {% when "staticman" %}
-      {%- if page.comments != false and jekyll.environment == "production" -%}
-        {% include post_comment_list.html %}
-        {% include post_new_comment.html %}
-      {%- endif -%}
-  {% endcase %}
-  {% endif %}
+  {%- include staticman-comments.html -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

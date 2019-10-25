@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Gunakan Open Source atau Free Software"
-categories: opensource
+title:  "Gunakan Open Source Software"
+categories: Open-Source
+image: gunakan-opensource-software.png
+permalink: /gunakan-opensource-software/
+comments: true
 ---
 
 Mengapa saya sebutkan open source atau free software karena open source jelaslah free software sedangkan free software belum tentu open source. Indonesia merupakan salah satu dari sekian banyak negara pembajak software termasuk saya juga, mereka suka membajak <!--more--> karena mereka menganggap software berbayar tentu berkualitas atau mereka belum tahu ada software lain yang gratis dan memiliki beberapa keunggulan dibanding software berbayar diantaranya yang ketahui:

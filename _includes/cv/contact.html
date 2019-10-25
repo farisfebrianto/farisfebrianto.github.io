@@ -1,0 +1,35 @@
+<div class="contact-container container-block">
+  <ul class="list-inline contact-list">
+
+    {%- if sidebar.email -%}
+    <li><svg class="svg-icon"><use xlink:href="{{ '/assets/images/social-icons.svg#email' | relative_url }}"></use></svg>
+      <a target="_blank" href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+    </li>
+    {%- endif -%}
+
+    {%- if sidebar.phone -%}
+    <li><svg class="svg-icon"><use xlink:href="{{ '/assets/images/social-icons.svg#phone' | relative_url }}"></use></svg>
+      <a target="_blank" href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
+    </li>
+    {%- endif -%}
+
+    {%- if sidebar.instagram -%}
+    <li><svg class="svg-icon"><use xlink:href="{{ '/assets/images/social-icons.svg#instagram' | relative_url }}"></use></svg>
+      <a target="_blank" href="https://www.instagram.com/{{ sidebar.instagram}}">{{ sidebar.instagram }}</a>
+    </li>
+    {%- endif -%}
+
+    {%- if sidebar.github -%}
+    <li><svg class="svg-icon"><use xlink:href="{{ '/assets/images/social-icons.svg#github' | relative_url }}"></use></svg>
+      <a target="_blank" href="https://github.com/{{ sidebar.github }}">{{ sidebar.github }}</a>
+    </li>
+    {%- endif -%}
+
+    {%- if sidebar.website -%}
+    <li><svg class="svg-icon"><use xlink:href="{{ '/assets/images/social-icons.svg#website' | relative_url }}"></use></svg>
+      <a target="_blank" href="https://{{ sidebar.website }}">{{ sidebar.website }}</a>
+    </li>
+    {%- endif -%}
+
+  </ul>
+</div>

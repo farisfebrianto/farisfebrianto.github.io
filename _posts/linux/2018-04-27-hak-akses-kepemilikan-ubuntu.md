@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Mengatur Hak Akses dan Kepemilikan di Terminal Ubuntu"
-categories: linux
+categories: Linux
+image: hak-akses-kepemilikan-ubuntu.png
+permalink: /hak-akses-kepemilikan-ubuntu/
+comments: true
 ---
 
 Sebagai pengguna Ubuntu, untuk mengubah hak akses dan kepemilikan lebih afdol kalau menggunakan perintah di terminal (command line) meskipun dengan GUI juga bisa, akan tetapi pada kebanyakan kasus kita diminta harus menggunakan terminal seperti mengerjakan tugas, laporan, dll. <!--more--> Perintah untuk mengubah hak akses dan kepemilikan ada 3 yaitu:

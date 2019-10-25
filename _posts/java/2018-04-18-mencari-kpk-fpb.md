@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Mencari KPK dan FPB"
-categories: java
+categories: Java
+image: mencari-kpk-fpb.png
+permalink: /mencari-kpk-fpb/
+comments: true
 ---
 
 KPK adalah singkatan dari Kelipatan Persekutuan Terkecil dari dua atau lebih bilangan. Manfaat dari KPK antara lain untuk menyamakan dua atau lebih penyebut pecahan sehingga memudahkan menjumlahkan atau mengurangkannya. <!--more--> Contoh KPK dari 2, 3, dan 5 adalah 30.

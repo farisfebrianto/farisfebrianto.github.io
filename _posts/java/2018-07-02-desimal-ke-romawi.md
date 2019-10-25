@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Konversi Desimal ke Romawi"
-categories: java
+categories: Java
+image: desimal-keromawi.png
+permalink: /desimal-keromawi/
+comments: true
 ---
 
 Bilangan Romawi adalah bilangan unik yang memiliki aturan-aturan yang berlaku dan terdiri dari huruf-huruf CAPITAL seperti I, X, C, M, V, L, dan v. Di Indonesia bilangan ini sangat jarang digunakan sekali, tapi untuk hal-hal tertentu saja. <!--more--> Pada dasarnya, bilangan Romawi memiliki bilangan dasar dan maksimal perulangan ganda pada huruf-huruf dalam suatu angka yaitu 3. Misal XXX = 30 bukan XXXX=40.

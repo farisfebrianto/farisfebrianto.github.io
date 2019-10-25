@@ -1,0 +1,20 @@
+---
+layout: page
+title: Categories
+permalink: /category/
+---
+
+{%- for categories in site.categories -%}
+  {%- capture categories_name -%}{{ categories | first }}{%- endcapture -%}
+  <a name="{{ categories_name | slugize }}"></a>
+  <h3 class="post-list-heading">{{ categories_name }}</h3>
+  <ul class="post-list">
+    {%- for post in site.categories[categories_name] -%}
+    <li>
+      <h4>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h4>
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endfor -%}

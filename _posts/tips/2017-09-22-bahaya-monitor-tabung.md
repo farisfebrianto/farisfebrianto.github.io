@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Bahaya Monitor Tabung"
-categories: tips
+categories: Tips
+image: bahaya-monitor-tabung.png
+permalink: /bahaya-monitor-tabung/
+comments: true
 ---
 
 Bagi anda yang saat ini masih menggunakan monitor CRT (tabung) mungkin artikel ini patut anda baca. Mengapa ? Karena ada beberapa rahasia yang perlu anda ketahui mengenai monitor CRT, terkait dengan bahaya yang ditimbulkannya. Hal ini tidak terikat pada 1 monitor saja, tapi hampir semuanya, bahkan akan lebih terasa lagi jika ukuran monitor CRT tersebut semakin besar. <!--more--> berikut bahaya yang dimiliki oleh monitor CRT bagi kesehatan:

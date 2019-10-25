@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Klik Kanan Menu Notepad++"
-categories: windows
+categories: Windows
+image: klik-kanan-menu-notepadpp.png
+permalink: /klik-kanan-menu-notepadpp/
+comments: true
 ---
 
 Notepad++ yaitu software untuk mengedit berbagai jenis plain text dan mempunyai banyak keunggulan seperti syntax hightlighting, auto completetion, ringan, dan tentunya open source. Jika kalian menginstal versi installer, ketika kalian klik kanan suatu file maka akan muncul opsi Edit with Notepad++.

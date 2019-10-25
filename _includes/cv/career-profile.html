@@ -1,0 +1,13 @@
+{%- assign career-profile = site.data.cv.career-profile -%}
+{%- if career-profile -%}
+<section class="section summary-section">
+  <h2 class="section-title">
+    <span>
+      <svg class="svg-icon"><use xlink:href="{{ '/assets/images/cv-icons.svg#career' | relative_url }}"></use></svg>
+    </span>{{ career-profile.title }}
+  </h2>
+  <div class="summary">
+    {{ career-profile.summary | markdownify }}
+  </div>
+</section>
+{%- endif -%}

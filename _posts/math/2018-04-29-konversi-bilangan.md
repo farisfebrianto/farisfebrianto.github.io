@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Konversi Bilangan"
-categories: math
+categories: Math
+image: konversi-bilangan.png
+permalink: /konversi-bilangan/
+comments: true
 ---
 
 Konversi bilangan merupakan problem dasar selain konversi suhu ataupun konversi satuan. Bilangan-bilangan non desimal ini biasanya diperlukan untuk hal-hal khusus seperti pada pemrograman yang biasanya menggunakan bilangan biner dan heksa dibanding bilangan desimal atau pada standar pewarnaan RGB yang menggunakan bilagan heksa desimal. <!--more--> Nah biasanya konversi bilangan muncul dalam soal-soal ujian atau lebih spesifik lagi untuk menghitung network (jaringan), agar tidak bingung penghitungan dasar konversi bilangan ini dikelompokkan menjadi 4 bagian.

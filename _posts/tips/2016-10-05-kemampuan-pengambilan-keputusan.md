@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Kemampuan Pengambilan Keputusan"
-categories: tips
+categories: Tips
+image: kemampuan-pengambilan-keputusan.png
+permalink: /kemampuan-pengambilan-keputusan/
+comments: true
 ---
 
 Seseorang manusia memang makhluk sosial yang mengharuskan mereka untuk berinteraksi dengan orang lain, berdiskusi, dan berkelompok. Tetapi akan ada situasi disaat kalian hanya bisa bergantung pada kalian sendiri saat ujian, saat membeli sesuatu, saat mengerjakan tugas individu, saat mengerjakan skripsi, dan lain-lain. Pengambilan keputusan sangat bermanfaat saat tidak ada orang lain yang bisa membantu kita tetapi tidak boleh menjadikan kita menjadi egois dan antisosial.

@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Perbedaan Windows 32 dan 64 bit"
-categories: windows
+categories: Windows
+image: perbedaan-windows-32-dan-64.png
+permalink: /perbedaan-windows-32-dan-64-bit/
+comments: true
 ---
 
 Ketika akan mendownload Windows 7 mungkin anda pernah mengalami sedikit bingung, karena ada Windows 7 32-bit dan Windows 7 64-bit. Lalu mana yang harus dipilih dan cocok dengan Laptop atau komputer yang anda miliki? Selain itu mungkin juga anda sedikit bingung apa sih bedanya antara Windows 7 32-bit  dengan Windows 7 64-bit? Inilah pertanyaan umum yang sering muncul.

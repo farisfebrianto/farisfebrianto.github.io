@@ -1,0 +1,22 @@
+{%- assign skills = site.data.cv.skills -%}
+{%- if skills -%}
+<section class="skills-section section">
+  <h2 class="section-title">
+    <span>
+      <svg class="svg-icon"><use xlink:href="{{ '/assets/images/cv-icons.svg#skill' | relative_url }}"></use></svg>
+    </span>{{ skills.title }}
+  </h2>
+
+  <div class="skillset">
+    {%- for skill in skills.toolset -%}
+    <div class="item">
+      <h3 class="level-title">{{ skill.name }}</h3>
+      <div class="level-bar">
+        <div class="level-bar-inner" style="width:{{ skill.level }}">
+        </div>
+      </div>
+    </div>
+    {%- endfor -%}
+  </div>
+</section>
+{%- endif -%}

@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Susahnya Beralih ke Linux!"
-categories: linux
+categories: Linux Open-source
+image: susahnya-beralih-kelinux.png
+permalink: /susahnya-beralih-kelinux/
+comments: true
 ---
 
 Bosan memakai OS Windows saya pun mencoba menginstal ulang laptop saya dengan linux Ubuntu, selain Ubuntu saya juga pernah mencoba distro-distro linux yang lain seperti openSUSE, Fedora, Debian, dan Linux Mint.

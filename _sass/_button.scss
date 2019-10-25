@@ -1,0 +1,26 @@
+.button, a.category-btn {
+  display: inline-block;
+  padding: 0.75em 1.5em;
+  border: none;
+  border-radius: 0.2em;
+  background-color: $orange-color;
+  color: $background-color;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $grey-color;
+  }
+
+  &:focus {
+    background-color: $grey-color-dark;
+  }
+}
+
+a.category-btn {
+    padding: 0.1em 0.25em;
+    font-weight: normal;
+    margin: 0 0.2em;
+}

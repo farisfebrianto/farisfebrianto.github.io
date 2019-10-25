@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Manual Update Nokia 5 (TA-1053)"
-categories: android
+categories: Android
+image: manual-update-nokia5.png
+permalink: /manual-update-nokia5/
+comments: true
 ---
 
 Now my mom got new Nokia 5 phone, thank's to my auntie Luluk for buying it. Nokia 5 alaways regularly got monthly updates, the problem is I don't have wifi connection because the update cannot via cellular networks. Many tricks I've done including tethering wifi from another phone, but it seems android smartly recognized it as cellular network.
@@ -23,7 +26,7 @@ Once finished, now install the update file
 2. If screen showing no command just press volume up + power + home button
 3. Select apply update from adb
 ![apply-update-adb](/assets/posts/android/2018-10-11-manual-update-nokia5/apply-update-adb.png){: .align-center}
-3. Type `adb sideload filename.zip`
+4. Type `adb sideload filename.zip`
 ![adb-sideload](/assets/posts/android/2018-10-11-manual-update-nokia5/adb-sideload.png){: .align-center}
-4. Wait until finished
+5. Wait until finished
 ![wait](/assets/posts/android/2018-10-11-manual-update-nokia5/wait.png){: .align-center}

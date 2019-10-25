@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Perbedaan TOEFL dan TOEIC"
-categories: tips
+categories: Tips
+image: perbedaan-toefl-toeic.png
+permalink: /perbedaan-toefl-toeic/
+comments: true
 ---
 
 ## TOEFL

@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Teknologi ABS motor"
-categories: motor
+title:  "Teknologi ABS Motor"
+categories: Motor
+image: teknologi-abs-motor.png
+permalink: /teknologi-abs-motor/
+comments: true
 ---
 
 Pertama kali ABS saya mengira singkatan dari Automatic Brake System ternyata kepanjangannya adalah Anti-lock Braking Sistem atau rem anti terkunci merupakan sistem pengereman pada kendaraan agar tidak terjadi roda mengunci saat pengendara melakukan pengereman keras.

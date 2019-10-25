@@ -1,0 +1,59 @@
+---
+title: Search
+layout: default
+permalink: /search/
+---
+<style>
+  #search-container {
+    min-height:600px;
+    width:100%;
+  }
+
+  .search {
+    position:relative;
+  }
+
+  #result-container li {
+    line-height:2.2
+  }
+
+  a.post-link-index, a.post-link-index:hover {
+    border:none
+  }
+
+  input[type=text] {
+    width:100%;
+    outline:0;
+    padding:15px 0 15px 15px;
+    margin:1em auto;
+    border:none;
+    border-radius:1px;
+    box-sizing:border-box;
+    box-shadow:0 0 0 1px rgba(0,0,0,.08)
+  }
+
+  input[type=text]:focus, input[type=text]:hover {
+    box-shadow:0 3px 3px 0 orange, 0 0 0 1px rgba(0,0,0,.08);
+  }
+</style>
+
+<h2 class="post-list-heading">{{ page.title }}</h2>
+<!-- Html Elements for Search -->
+<div id="search-container">
+  <div class="search">
+    <input type="text" id="search-input" placeholder="Type here!" autofocus>
+  </div>
+  <div id="results-container" class="mainbox"></div>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}" type="text/javascript"></script>
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<a href="{url}"><div class="card"><img class="post-image-index"  width="300" height="188" src="{image}" alt="{title }"><div class="card-footer"><span class="post-meta">{date}</span><span class="post-meta"> in {categories}</span><h2>{title}</h2><hr><p class="post-excerpt">{excerpt}</p></div></div></a>'
+})
+</script>

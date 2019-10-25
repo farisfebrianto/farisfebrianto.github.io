@@ -1,0 +1,30 @@
+{%- assign projects = site.data.cv.projects -%}
+{%- if projects -%}
+<section class="section projects-section">
+  <h2 class="section-title">
+    <span>
+      <svg class="svg-icon"><use xlink:href="{{ '/assets/images/cv-icons.svg#project' | relative_url }}"></use></svg>
+    </span>{{ projects.title }}
+  </h2>
+  {%- if projects.intro -%}
+  <div class="intro">
+      <p>{{ projects.intro }}</p>
+  </div>
+  {%- endif -%}
+
+  {%- for project in projects.assignments -%}
+    <div class="item">
+      <span class="project-title">
+        {%- if project.link -%}
+        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+        {%- else -%}
+          {{ project.title }}
+        {%- endif -%}
+      </span>
+      {%- if project.tagline -%}
+      - <span class="project-tagline">{{ project.tagline }}</span>
+      {%- endif -%}
+    </div>
+  {%- endfor -%}
+</section>
+{%- endif -%}

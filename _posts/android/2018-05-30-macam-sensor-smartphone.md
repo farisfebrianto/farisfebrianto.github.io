@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Macam-macam Sensor Pada Smartphone"
-categories: android
+categories: Android
+image: macam-sensor-smartphone.png
+permalink: /macam-sensor-smartphone/
+comments: true
 ---
 
 Smartphone sekarang tuh sekarang kayak *all in device*, serbaguna karena didalamnya ada bergam sensor mulai dari sensor infrared biasa untuk meremote alat elektronik lain, Near Field Communication untuk metode pembayaran otomatis tinggal mendekatkan smartphone pada reseptor NFC atau sensor fingerprint untuk metode autentifikasi. <!--more--> Untuk sensor-sensor lain simak penjabaran berikut:

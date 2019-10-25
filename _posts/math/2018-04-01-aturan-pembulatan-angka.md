@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "Aturan Pembulatan Angka"
-categories: math
+categories: Math
+image: aturan-pembulatan-angka.png
+permalink: /aturan-pembulatan-angka/
+comments: true
 ---
 
 Jika dibutuhkan, pembulatan angka mutlak diperlukan. Pembulatan angka sendiri memiliki pengertian suatu pekerjaan yang bertujuan untuk menghilangkan beberapa angka dibelakang koma, sehingga menghasilkan bilangan pembulatan untuk ketelitian tertentu. <!--more--> Untuk lebih jelasnya perhatikan contoh pembulatan menjadi dua angka dibelakang koma berikut:
 
-- 29, 63243 menjadi 29,63
+- 29,63243 menjadi 29,63
 - 81,9773 menjadi 81,98
 - 11,64489 menjadi 11,64
 - 48, 365 menjadi 48, 36

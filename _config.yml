@@ -1,5 +1,11 @@
 # Appears in the html tab browser for the site title
-title: RekCode
+title: Faris Febrianto
+
+# Get in touch via email, appears on footer
+email: farisfeb@gmail.com
+
+# It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: Personal Life, Programming and Other Stuff Blog
 
 # The optional subpath of your site, e.g. "/blog"
 # baseurl:
@@ -7,51 +13,86 @@ title: RekCode
 # The base hostname & protocol for your site
 url: "https://farisfebrianto.github.io"
 
-# path of site logo, e.g. "/assets/images/logo.png"
-logo: "/assets/images/favicons/rekcodelogo.png"
-
-# Site author
-author: Faris Febrianto
-
-# repo name
+# Repository name for staticman
 repository: "farisfebrianto/farisfebrianto.github.io"
 
-# comment
-comments:
-  provider: "staticman" # false (default), "disqus", "staticman"
-  disqus:
-    shortname: farisfebrianto
-  staticman:
-    branch                 : "master"
+# Staticman comment
+staticman:
+  branch: "master"
+
+# Captcha for submit comment
 reCaptcha:
-  siteKey                : "6LeUjmoUAAAAAFqSpITswOYs28T9EqVr-9DPAcFv"
-  secret                 : "BLOJxa4BS6ppRUAJ+S0/che1efvySGdq4yGK7FCPyWPuObiww3j+pOrI8GsOijp9W/oLV+RVPBu/ZU1RwvCyy7P78xYvtF2nxmfk7HdeMOI2N9hjT9llfOtYJyVltzNH78KNdGTngMIPbhtUqKpAO5kRaarTwd4JQAVUhlR3Oh4="
+  siteKey: "6LeUjmoUAAAAAFqSpITswOYs28T9EqVr-9DPAcFv"
+  secret: "BLOJxa4BS6ppRUAJ+S0/che1efvySGdq4yGK7FCPyWPuObiww3j+pOrI8GsOijp9W/oLV+RVPBu/ZU1RwvCyy7P78xYvtF2nxmfk7HdeMOI2N9hjT9llfOtYJyVltzNH78KNdGTngMIPbhtUqKpAO5kRaarTwd4JQAVUhlR3Oh4="
 
 # Social media account information, appears on footer
-github_username:  farisfebrianto
-instagram_username: faris.febrianto
+social_links:
+  github:  farisfebrianto
+  instagram: faris.febrianto
+  rss: rss
+  # twitter: jekyllrb
+  # dribbble: jekyll
+  # facebook: jekyll
+  # flickr:   jekyll
+  # linkedin: jekyll
+  # pinterest: jekyll
+  # youtube: jekyll
+  # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+  # youtube_channel_name: CloudCannon
+  # telegram: jekyll
+  # googleplus: +jekyll
+  # microdotblog: jekyll
+  # keybase: jekyll
 
-# Site motto, appears on footer
-description: "Simple yet solutive"
-
-# Get in touch via email, appears on footer
-email: farisfebrianto@outlook.com
+  # Mastodon instances
+  # mastodon:
+  # - username: jekyll
+  #   instance: example.com
+  # - username: jekyll2
+  #   instance: example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# css compression
+sass:
+  style: compressed
+
 # Pagination
-paginate: 10
+paginate: 9
 paginate_path: /page:num/
 
 # Show excerpt
 show_excerpts: true
 excerpt_separator: <!--more-->
 
-# Reading Files
+# Reading custom path
 include:
   - _pages
+
+# Set which pages you want to appear and order in the navigation area
+header_pages:
+  - _pages/project.html
+  - _pages/cv.html
+  - _pages/about.md
+
+# Google Analytics
+google_analytics: UA-149781428-1
+
+# Custom date format
+date_format: "%-d %b %Y"
+
+# Optimization for compressed html
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []

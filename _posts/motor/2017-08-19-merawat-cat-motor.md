@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Merawat Cat Motor"
-categories: motor
+categories: Motor
+image: merawat-cat-motor.png
+permalink: /merawat-cat-motor/
+comments: true
 ---
 
 Motor anda catnya mudah kusam dan ingin selalu kinclong? Seringkali kita lalai dalam perawatan cat motor seperti sering diparkir di tempat yang terkena matahari langsung (terik) yang menyebabkan warna bodi motor terihat kusam. <!--more--> Berikut, beberapa tips untuk menghindari cat motor menjadi kusam sekaligus merawat warna cat motor anda:

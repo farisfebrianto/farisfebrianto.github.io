@@ -1,0 +1,64 @@
+.staticman-comment {
+  input, textarea {
+    width: 100%;
+    margin-bottom: 0.5em;
+    vertical-align: middle;
+    padding: 0.5em 0;
+    font-size: inherit;
+    border: 1px solid $grey-color;
+    outline-color: $orange-color;
+  }
+}
+
+.comment-wrapper {
+  margin-bottom: 1em;
+  background-color: lighten($orange-color, 45%);
+  width: 100%;
+  padding: 0.5em 0;
+  display: flex;
+}
+
+.comment-avatar {
+  margin: 3pt;
+  display: block;
+  font-size: 200%;
+  font-weight: bold;
+  color: $background-color;
+  background-color: $orange-color;
+  border: none;
+  padding: 0.1em 0.5em;
+  text-align: center;
+  text-decoration: none;
+}
+
+.comment-content {
+  margin-left: 1em;
+}
+
+.comment-date {
+  font-size: 9pt;
+  display: inline-flex;
+  justify-content: flex-start;
+}
+
+.comment-body {
+  display: flex;
+  justify-content: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  word-wrap: break-word;
+}
+
+.g-recaptcha {
+  margin-bottom: 0.75em;
+}
+
+#g-recaptcha-response {
+  display: block !important;
+  position: absolute;
+  margin: -78px 0 0 0 !important;
+  width: 302px !important;
+  height: 76px !important;
+  z-index: -999999;
+  opacity: 0;
+}

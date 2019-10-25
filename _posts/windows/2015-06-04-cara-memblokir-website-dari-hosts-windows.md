@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Cara Memblokir Website dari Hosts Windows"
-categories: windows
+categories: Windows
+image: blokir-website-dari-hosts-windows.png
+permalink: /blokir-website-dari-hosts-windows/
+comments: true
 ---
 
 Blokir website ini sebenarnya hanya mengarahkan link-link tertentu agar mengarah ke alamat *dummy* seperti 127.0.0.1 (localhost) sehingga link tersebut seolah-olah down atau tidak bisa diakses. Biasanya tujuan pemblokiran ini antara lain agar saat browsing kita tidak terganggu iklan internet (blok host iklan) atau dalam rangka memblokir pemeriksaan keaslian suatu software, misalnya dalam tahap-tahap aksi ilegal cracking Adobe Photoshop.

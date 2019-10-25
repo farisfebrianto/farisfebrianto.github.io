@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Distro Linux"
-categories: opensource
+categories: Open-Source
+image: distro-linux.png
+permalink: /disto-linux/
+comments: true
 ---
 
 Linux yang merupakan free dan open source OS menjadi alternatif OS windows yang banyak digunakan oleh masyarakat. Linux untuk desktop dibagi menjadi 2 yaitu 32-bit dan 64bit. Linux terpecah belah menjadi beberapa distribusi diantaranya:

@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Segitiga Pascal"
-categories: java
+categories: Java
+image: segitiga-pascal.png
+permalink: /segitiga-pascal/
+comments: true
 ---
 Segitiga Pascal adalah suatu aturan geometri pada koefisien binomial dalam sebuah segitiga. Ia dinamakan seperti Blaise Pascal dalam kebanyakan dunia barat, meskipun ahli matematika lain telah mengkajinya berabad-abad sebelum dia yaitu orang-orang di India, Persia, Cina, dan Italia. Barisan segitiga Pascal umumnya dihitung dimulai dengan baris kosong, dan nomor-nomor dalam barisan ganjil biasanya diatur agar terkait dengan nomor-nomor dalam baris genap. <!--more--> Konstruksi sederhana pada segitiga dilakukan dengan cara berikut. Di barisan teratas, hanya tulis nomor 1. Kemudian, untuk membangun unsur-unsur barisan berikutnya. Tambahkan nomor di atas dan di kiri dengan nomor secara langsung, kemudian bagian kosongnya merupakan hasil penjumlahan 2 bilangan ini diatasnya. Berikut ini contoh source codenya:
 

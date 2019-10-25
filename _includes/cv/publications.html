@@ -1,0 +1,29 @@
+{%- assign publications = site.data.cv.publications -%}
+{%- if publications -%}
+<section class="section publications-section">
+  <h2 class="section-title">
+    <span>
+      <svg class="svg-icon"><use xlink:href="{{ '/assets/images/cv-icons.svg#publication' | relative_url }}"></use></svg>
+    </span>{{ publications.title }}
+  </h2>
+  {%- if publications.intro -%}
+  <div class="intro">
+    {{ publications.intro | markdownify }}
+  </div>
+  {%- endif -%}
+
+  {%- for publication in publications.papers -%}
+  <div class="item">
+    {%- if publication.link -%}
+      <div class="publication-title">
+        <a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a>
+      </div>
+    {%- else -%}
+      <div class="publication-title">{{ publication.title }}</div>
+    {%- endif -%}
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.publisher }}</div>
+  </div>
+  {%- endfor -%}
+</section>
+{%- endif -%}

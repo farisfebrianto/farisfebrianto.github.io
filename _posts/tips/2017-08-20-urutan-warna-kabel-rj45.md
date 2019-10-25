@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Urutan Warna Kabel RJ-45"
-categories: tips
+categories: Tips
+image: urutan-warna-kabel-rj45.png
+permalink: /urutan-warna-kabel-rj45/
+comments: true
 ---
 
 Mungkin sebagian dari kita banyak yang belum mengetahui sebenarnya ada urutan tersendiri dalam melakukan crimping pada kabel UTP RJ45 yang akan mempengaruhi kinerja dari kabel tersebut. Karena biasanya kita menganggap urutan dari kabel tersebut tidak memiliki pengaruh apa-apa, padahal jika urutan tersebut memiliki kesalahan urutan maka kabel tersebut tidak dapat dipakai untuk menghubungkan antara dua device.<!--more--> Oleh sebab itu disini saya akan berbagi informasi tentang urutan warna dalam meng-crimping kabel RJ45 yang benar sesuai standart.
@@ -26,7 +29,7 @@ Urutan warna yang benar untuk kabel jenis ini adalah :
 3. Putih Hijau
 4. Biru
 5. Putih Biru
-6.. Hijau
+6. Hijau
 7. Putih Coklat
 8. Coklat
 ```

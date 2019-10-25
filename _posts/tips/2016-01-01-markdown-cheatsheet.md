@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Markdown Cheatsheet"
-categories: tips
-comments: false
+categories: Tips
+image: markdown-cheatsheet.png
+permalink: /markdown-cheatsheet/
+comments: true
 ---
 
 Most of the examples from this documentation are in Markdown. Markdown is default parser for GitBook. Here’s an overview of Markdown syntax that you can use with GitBook (same as GitHub with some additions).

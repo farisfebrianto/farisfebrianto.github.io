@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Perguruan Tinggi di Malang"
-categories: tips
+categories: Tips
+image: perguruan-tinggi-malang.png
+permalink: /perguruan-tinggi-malang/
+comments: true
 ---
 
 Ada banyak perguruan tinggi di kota Malang, bukan sekabupaten Malang ya!. Mulai dari universitas negeri, universitas swasta, politeknik sampai sekolah tinggi pun ada, memang hampir setiap perempatan selalu ada perguruan tinggi. <!--more--> Berikut ini daftarnya:
