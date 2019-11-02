@@ -4,23 +4,6 @@ layout: default
 permalink: /search/
 ---
 <style>
-  #search-container {
-    min-height:600px;
-    width:100%;
-  }
-
-  .search {
-    position:relative;
-  }
-
-  #result-container li {
-    line-height:2.2
-  }
-
-  a.post-link-index, a.post-link-index:hover {
-    border:none
-  }
-
   input[type=text] {
     width:100%;
     outline:0;
@@ -29,7 +12,7 @@ permalink: /search/
     border:none;
     border-radius:1px;
     box-sizing:border-box;
-    box-shadow:0 0 0 1px rgba(0,0,0,.08)
+    box-shadow:0 0 0 1px rgba(0,0,0,.08);
   }
 
   input[type=text]:focus, input[type=text]:hover {
@@ -40,9 +23,7 @@ permalink: /search/
 <h2 class="post-list-heading">{{ page.title }}</h2>
 <!-- Html Elements for Search -->
 <div id="search-container">
-  <div class="search">
-    <input type="text" id="search-input" placeholder="Type here!" autofocus>
-  </div>
+  <input type="text" id="search-input" placeholder="Type here!" autofocus>
   <div id="results-container" class="mainbox"></div>
 </div>
 

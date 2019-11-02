@@ -18,7 +18,7 @@
   margin: 20px;
   text-align: justify;
   transition: 0.25s ease-in;
-  position: relative;
+  // position: relative;
   &:hover {
     box-shadow: 0px 0px 15px $orange-color;
   }
@@ -41,7 +41,7 @@
 
 .post-excerpt {
   font-size: $base-font-size;
-  text-align: justify !important;
+  text-align: justify;
   margin-bottom: .2em;
   margin-top: .2em;
   color: $text-color;

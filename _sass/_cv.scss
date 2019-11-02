@@ -11,7 +11,7 @@
     left: 0;
     width: 280px;
     height: 100%;
-    min-height: 800px;
+    min-height: 850px;
     color: $background-color;
 
     a {
@@ -243,10 +243,14 @@
     }
 }
 
-/* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
+/* Extra small devices (phones, less than 600px) */
+@media (max-width: $on-medium) {
     body{
         padding: 0;
+    }
+
+    .cv-wrapper {
+        position: static;
     }
 
     .sidebar-wrapper {
@@ -271,8 +275,8 @@
 
 }
 
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
+/* Medium devices (desktops, 800px and up) */
+@media (min-width: $on-large) {
     .skillset .level-title {
         display: inline-block;
         float: left;
