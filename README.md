@@ -14,6 +14,7 @@ This is [my personal blog](https://farisfebrianto.github.io) made with jekyll ba
 8. [Compressed](https://jch.penibelst.de) HTML feature
 9. Custom permalink on post
 10. Better SEO with jekyll-seo-tag and HTML5 Microdata
+11. Alignment utilities
 
 ## Screenshot
 
